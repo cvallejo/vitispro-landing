@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #DF6159;
+                background-color: #FFFFFF;
                 color: #ffffff;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -80,7 +80,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="{{ asset('img/logo_trans_vitispro.png') }}" alt="vitispro" width="600">
+                    <img src="{{ asset('img/vitispro_logo.svg') }}" alt="vitispro" width="600">
                 </div>
             </div>
         </div>
